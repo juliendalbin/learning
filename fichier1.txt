@@ -1,2 +1,2 @@
-ajout ligne master
+ajout ligne master/conflitprob1
 ajout ligne prob1
